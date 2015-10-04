@@ -1,7 +1,5 @@
 <?php
-require_once '../Money.php
-
-';
+require_once '../Money.php'; 
 class MoneyTest extends PHPUnit_Framework_TestCase
 {
     // ...
